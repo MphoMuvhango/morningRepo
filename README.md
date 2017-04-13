@@ -1,2 +1,2 @@
 # morningRepo
-repository created for practice ppurpose
+repository created for practice purpose
